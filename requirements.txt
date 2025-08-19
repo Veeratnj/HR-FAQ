@@ -1,0 +1,12 @@
+langchain
+streamlit
+pdfplumber
+open-text-embeddings
+ollama
+prompt-template
+langchain-experimental
+sentence-transformers
+faiss-cpu
+ollama 
+agno
+reportlab
